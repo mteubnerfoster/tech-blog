@@ -1,0 +1,24 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "For this project, I'm creating a tech blog.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mteubnerfoster/tech-blog.git"
+  },
+  "keywords": [],
+  "author": "Megan Teubner-Foster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mteubnerfoster/tech-blog/issues"
+  },
+  "homepage": "https://github.com/mteubnerfoster/tech-blog#readme",
+  "dependencies": {
+    
+  }
+}
