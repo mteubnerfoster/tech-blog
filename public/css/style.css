@@ -1,0 +1,40 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #58008b;
+}
+a:hover {
+    color: #343a40;
+}
+
+.dashboard {
+    color: #58008b;
+}
+
+.form-input {
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px rgba(52, 58, 64, 0.5);
+    width: 40%;
+}
+.comments {
+    margin-bottom: 25px;
+}
+.card-comments {
+    border-bottom: solid 2px;
+    border-color:  #343a404f;
+    margin-bottom: 10px;
+}
+#signup-btn:hover {
+    background-color: rgb(45, 172, 45);
+}
+.hidden {
+    display: none;
+}
+article {
+    margin-bottom: 25px;
+}
+footer {
+    margin-top: 50px;
+}
