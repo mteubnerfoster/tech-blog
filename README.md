@@ -35,5 +35,3 @@ Deployed blog can be found [here](https://mtf-tech-blog.herokuapp.com/).
 
 ## Author(s)
 - [Megan Teubner-Foster](https://www.github.com/mteubnerfoster)
-
-Deployed blog can be found [here](https://mtf-tech-blog.herokuapp.com/).
