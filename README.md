@@ -8,7 +8,7 @@
 - [Author(s)](#author(s))
 
 ## About
-This is a CMS-style blog site. When users visit the site for the first time, they're presented with the homepage, which includes existing blog posts, navigation links for the homepage and the dashboard, and the option to log in. 
+I built a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. This site was built completely from scratch and deployed to Heroku. It follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## User Story
 As a developer who writes about tech, I want a CMS-style blog site so that I can publish articles, blog posts, and my thoughts and opinions.
