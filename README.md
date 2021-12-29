@@ -28,7 +28,7 @@ This application was created using:
 
 ## Examples
 A photo of the homepage: <br>
-![](images/Example-generated-README.JPG)
+![](public/tech-blog-photo.JPG)
 <br>
 
 Deployed blog can be found [here](https://mtf-tech-blog.herokuapp.com/).
